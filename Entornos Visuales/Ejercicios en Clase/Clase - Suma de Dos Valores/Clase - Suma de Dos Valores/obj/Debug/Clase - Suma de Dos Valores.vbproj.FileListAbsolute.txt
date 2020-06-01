@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\bin\Debug\Clase - Suma de Dos Valores.exe.config
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\bin\Debug\Clase - Suma de Dos Valores.exe
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\bin\Debug\Clase - Suma de Dos Valores.pdb
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\bin\Debug\Clase - Suma de Dos Valores.xml
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase - Suma de Dos Valores.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase___Suma_de_Dos_Valores.Form1.resources
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase___Suma_de_Dos_Valores.Resources.resources
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase - Suma de Dos Valores.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase - Suma de Dos Valores.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase - Suma de Dos Valores.exe
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase - Suma de Dos Valores.xml
+C:\Users\Usuario\source\repos\Clase - Suma de Dos Valores\Clase - Suma de Dos Valores\obj\Debug\Clase - Suma de Dos Valores.pdb
