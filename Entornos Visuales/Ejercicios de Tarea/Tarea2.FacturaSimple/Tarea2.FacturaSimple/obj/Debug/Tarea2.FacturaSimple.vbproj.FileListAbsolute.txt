@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.Resources.resources
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\bin\Debug\Tarea2.FacturaSimple.exe.config
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\bin\Debug\Tarea2.FacturaSimple.exe
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\bin\Debug\Tarea2.FacturaSimple.pdb
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\bin\Debug\Tarea2.FacturaSimple.xml
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.exe
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.xml
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.pdb
+C:\Users\Usuario\source\repos\Tarea2.FacturaSimple\Tarea2.FacturaSimple\obj\Debug\Tarea2.FacturaSimple.FacturaSencilla.resources

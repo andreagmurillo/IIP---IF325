@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\bin\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.exe.config
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\bin\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.exe
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\bin\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.pdb
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\bin\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.xml
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea___Operaciones_Matematicas_Potencia_y_Raiz.Operaciones Matematicas P y R.resources
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea___Operaciones_Matematicas_Potencia_y_Raiz.Resources.resources
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.exe
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.xml
+C:\Users\Usuario\source\repos\Tarea - Operaciones Matematicas Potencia y Raiz\Tarea - Operaciones Matematicas Potencia y Raiz\obj\Debug\Tarea - Operaciones Matematicas Potencia y Raiz.pdb

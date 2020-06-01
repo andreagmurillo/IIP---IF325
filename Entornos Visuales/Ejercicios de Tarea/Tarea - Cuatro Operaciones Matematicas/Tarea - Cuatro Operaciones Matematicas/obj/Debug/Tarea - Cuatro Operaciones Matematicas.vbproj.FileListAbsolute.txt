@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\bin\Debug\Tarea - Cuatro Operaciones Matematicas.exe.config
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\bin\Debug\Tarea - Cuatro Operaciones Matematicas.exe
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\bin\Debug\Tarea - Cuatro Operaciones Matematicas.pdb
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\bin\Debug\Tarea - Cuatro Operaciones Matematicas.xml
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea - Cuatro Operaciones Matematicas.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea___Cuatro_Operaciones_Matematicas.Form1.resources
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea___Cuatro_Operaciones_Matematicas.Resources.resources
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea - Cuatro Operaciones Matematicas.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea - Cuatro Operaciones Matematicas.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea - Cuatro Operaciones Matematicas.exe
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea - Cuatro Operaciones Matematicas.xml
+C:\Users\Usuario\source\repos\Tarea - Cuatro Operaciones Matematicas\Tarea - Cuatro Operaciones Matematicas\obj\Debug\Tarea - Cuatro Operaciones Matematicas.pdb
