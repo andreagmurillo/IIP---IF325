@@ -1,0 +1,35 @@
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.xml
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbprojResolveAssemblyReference.cache
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.CalculadoraForm.resources
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Resources.resources
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbproj.GenerateResource.Cache
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.xml
+C:\Users\Josue Daniel Euceda\documents\visual studio 2015\Projects\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.xml
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.CalculadoraForm.resources
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Resources.resources
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.xml
+C:\Users\Usuario\Downloads\CalculadoraCientifica\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.xml
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.CalculadoraForm.resources
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Resources.resources
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.xml
+C:\Users\Usuario\Downloads\tarea - calculadora\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
