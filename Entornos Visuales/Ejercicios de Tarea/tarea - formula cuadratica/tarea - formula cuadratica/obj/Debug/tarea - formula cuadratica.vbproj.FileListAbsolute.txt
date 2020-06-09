@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\bin\Debug\tarea - formula cuadratica.exe.config
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\bin\Debug\tarea - formula cuadratica.exe
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\bin\Debug\tarea - formula cuadratica.pdb
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\bin\Debug\tarea - formula cuadratica.xml
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea - formula cuadratica.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea___formula_cuadratica.FormulaCuadratica.resources
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea___formula_cuadratica.Resources.resources
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea - formula cuadratica.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea - formula cuadratica.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea - formula cuadratica.exe
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea - formula cuadratica.xml
+C:\Users\Usuario\source\repos\tarea - formula cuadratica\tarea - formula cuadratica\obj\Debug\tarea - formula cuadratica.pdb
