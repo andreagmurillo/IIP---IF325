@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\bin\Debug\Examen 1 Parcial.exe.config
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\bin\Debug\Examen 1 Parcial.exe
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\bin\Debug\Examen 1 Parcial.pdb
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\bin\Debug\Examen 1 Parcial.xml
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen 1 Parcial.vbprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen_1_Parcial.Bienvenido.resources
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen_1_Parcial.Login.resources
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen_1_Parcial.Resources.resources
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen 1 Parcial.vbproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen 1 Parcial.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen 1 Parcial.exe
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen 1 Parcial.xml
+C:\Users\Usuario\source\repos\Examen 1 Parcial\Examen 1 Parcial\obj\Debug\Examen 1 Parcial.pdb
